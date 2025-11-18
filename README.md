@@ -57,7 +57,3 @@ Tests include examples that assert publisher output and cancellation behavior.
 - Keep changes focused and test-covered.
 - Follow Swift API design and project coding style.
 
-## License
-MIT — see LICENSE file for details.
-
-- GitHub Copilot
