@@ -34,3 +34,7 @@ build/
 
 ### Security - Sensitive Configuration Files ###
 **/application.properties
+
+### Build and IDE artifacts ###
+**/target/
+**/.idea/
